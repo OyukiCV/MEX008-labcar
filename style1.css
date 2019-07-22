@@ -72,7 +72,7 @@ padding: 0px;
   color: #2b2b2b;
   overflow: hidden;
   cursor: pointer;
-  
+
 }
 .nav--top:after {
   content: "☰";
@@ -196,7 +196,7 @@ p.uno{
 font-family:"Arial";
 font-size: 3rem;
 color: white;
-margin: 1.2em;
+margin:1.2em 1.2em 0.5em 1.2em;
 text-align: left;
 }
 p.dos{
@@ -270,7 +270,7 @@ margin: 4em 2em;
 .input-ruta{
     margin-left: 1.5em;
     margin-top: 3em;
-   
+
 }
 .punto-partida{
 font-family:"Arial";
@@ -338,7 +338,7 @@ ul{
 	font-size: 1rem;
 	color: white;
 	margin: 1.5rem 0 2.5rem;
-	
+
 }
 .copyright{
 	font-family: "Arial";
@@ -354,9 +354,9 @@ img.icons{
     margin-right: 0.8em;
 }
 .play-store{
-	   
+
     margin-bottom: 1.2rem;
-   
+
 }
 figure{
 	display: inline-block;
@@ -373,7 +373,7 @@ figure{
 	background-color: white;
 	display: grid;
 	grid-template-columns: 2fr 2fr;
-	
+
 	height: 10vh;
 }
 .menu-horizontal{
@@ -438,9 +438,9 @@ text-align: left;
 }
 
 .encuadre-web{
-	border-top: 3px solid #FFF;    	
-	border-right: 3px solid #FFF;	   	
-	border-bottom: 3px solid #FFF;    	
+	border-top: 3px solid #FFF;
+	border-right: 3px solid #FFF;
+	border-bottom: 3px solid #FFF;
 	border-left: none;
     margin:2em 20em 2em 0;
     display: grid;
@@ -485,12 +485,12 @@ margin: 2em 0 1em;
     height: 55vh;
     display: grid;
     grid-template-columns: repeat(3, 2fr);
-    
+
 }
 .derecha{
-	
-	
-	
+
+
+
 }
 .opaco-web{
 background-color: black;
@@ -499,7 +499,7 @@ position: relative;
 z-index: 1;
     grid-column-start: 3;
     grid-column-end: 4;
-    
+
 }
 
 p.txt-conduce-web{
@@ -548,7 +548,7 @@ margin-bottom: 0.5em;
 .input-ruta-w{
     margin-left: 1.5em;
     margin-top: 3em;
-   
+
 }
 .punto-partida-w{
 font-family:"Arial";
@@ -591,7 +591,7 @@ width: 100vw;
     margin: 2rem 8rem;
 }
 img.mapa-web{
-	margin:1rem; 
+	margin:1rem;
 }
 .foot-int-web{
 	margin:2rem 4rem;
@@ -599,7 +599,7 @@ img.mapa-web{
 }
 
 img.lg-blanco-web{
-	
+
 	margin-top: 4rem;
 	margin-bottom: 2rem;
 
